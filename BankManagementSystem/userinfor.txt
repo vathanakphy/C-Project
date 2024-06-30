@@ -1,0 +1,5 @@
+Username  password   phoneNumber
+nak         1234     078569811
+thida       1111     0889302084
+bob         abcd     012768514
+kelvin      4321     0975557008
